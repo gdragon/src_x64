@@ -1,4 +1,4 @@
-
+//
 //Contains different sizing fields structures for different proposes: Spherical, Elliptical, planar gradient
 // Refer to original CGAL documents if you would like to know more about sizing fields
 // developed by Kirill Aristovich
